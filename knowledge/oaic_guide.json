@@ -1,0 +1,735 @@
+{
+ "source": "Office of the Australian Information Commissioner, Data breach preparation and response: A guide to managing data breaches in accordance with the Privacy Act 1988 (Cth) (July 2019), Part 4",
+ "url": "https://www.oaic.gov.au/__data/assets/pdf_file/0017/1691/data-breach-preparation-and-response.pdf",
+ "note": "Extracted for educational use in a student project; cite the OAIC guide (page numbers refer to the PDF).",
+ "chunks": [
+  {
+   "id": "c001",
+   "page": 23,
+   "section": "Part 4: Notifiable Data Breach (NDB) Scheme",
+   "subsection": "Part 4: Notifiable Data Breach (NDB) Scheme",
+   "text": "The Privacy Act requires certain entities to notify individuals and the Commissioner about data breaches that are likely to cause serious harm. The requirements of the NDB scheme are contained in Part IIIC of the Privacy Act and apply to breaches that occur on or after 22 February 2018. This part of the guide covers the following topics: • Entities covered by the NDB scheme • Data breaches involving more than one entity • Identifying eligible data breaches • Exceptions to the notification obligation • Assessing a suspected data breach • Notifying individuals about an eligible data breach • What to include in an eligible data breach statement • The Australian Information Commissioner's role in the NDB scheme."
+  },
+  {
+   "id": "c002",
+   "page": 24,
+   "section": "Entities covered by the NDB scheme",
+   "subsection": "",
+   "text": "Key points • Entities that have existing obligations under the Privacy Act to secure personal information must comply with the NDB scheme. • This includes Australian Government agencies, businesses and not-for profit organisations that have an annual turnover of more than AU$3 million, private sector health service providers, credit reporting bodies, credit providers, entities that trade in personal information and tax file number (TFN) recipients. • Entities that have Privacy Act security obligations in relation to particular types of information only (for example, small businesses that are required to secure tax file number information) do not need to notify about data breaches that affect other types of information outside the scope of their obligations under the Privacy Act."
+  },
+  {
+   "id": "c003",
+   "page": 24,
+   "section": "Entities covered by the NDB scheme",
+   "subsection": "APP entities",
+   "text": "The NDB scheme applies to entities that have an obligation under APP 11 of the Privacy Act to protect the personal information they hold (s 26WE(1)(a)). 11 Collectively known as ‘APP entities’, these include Australian Government agencies and private sector and not-for-profit organisations with an annual turnover of more than $3 million. The definition of APP entity generally does not include small business operators, registered political parties, state or territory authorities, or a prescribed instrumentality of a state (s 6C). However, some businesses of any size are APP entities, including businesses that trade in personal information 12 and organisations that provide a health service to, and hold health information about, individuals (see What Is a Health Service Provider?). 13 For more information about APP entities, see Chapter B of the Australian Privacy Principle Guidelines (APP Guidelines). 14"
+  },
+  {
+   "id": "c004",
+   "page": 24,
+   "section": "Entities covered by the NDB scheme",
+   "subsection": "Exempt acts and practices, including employee records",
+   "text": "The NDB scheme only applies to entities and personal information holdings that are already subject to security requirements under the Privacy Act. This means that acts and practices of APP entities that are exempt from the Privacy Act will also be exempt from the NDB scheme. For example, in some circumstances, private sector employers do not have to comply with the APPs in relation to employee records associated with current and former employment relationships (s 7B(3)). If an exempt employee record is subject to unauthorised access, disclosure or loss, the private sector employer does not have to assess the breach or notify individuals and the Commissioner. This exemption does not apply to TFN information that is contained within an employee record. However, given community expectations around the handling of their personal ‘Personal information’ is defined in s 6(1) of the Privacy Act to include information or an opinion about an identified individual, or an individual who is reasonably identifiable, whether the information or opinion is true or not, and whether the information or opinion is recorded in a material form or not."
+  },
+  {
+   "id": "c005",
+   "page": 25,
+   "section": "Entities covered by the NDB scheme",
+   "subsection": "Exempt acts and practices, including employee records",
+   "text": "information, it is recommended that employers notify affected individuals where a breach of an employee record is likely to result in serious harm. Doing so will enable affected individuals to take protective action against any potential harms, as well as illustrating to employees that the security of their records is taken seriously. Further information about acts and practices that are exempt from the APPs and, by extension, the NDB scheme can be found in Rights and Responsibilities. 15"
+  },
+  {
+   "id": "c006",
+   "page": 25,
+   "section": "Entities covered by the NDB scheme",
+   "subsection": "Small business operators",
+   "text": "A small business operator (SBO) is an individual (including a sole trader), body corporate, partnership, unincorporated association, or trust that has not had an annual turnover of more than $3 million in any financial year since 2001 (s 6D). Generally, SBOs do not have obligations under the APPs unless an exception applies (s 6D(4)). In certain circumstances an SBO must comply with the APPs, and therefore with the NDB scheme. That will be the case where the SBO • holds health information and provides a health service • is related to an APP entity • trades in personal information. That is, the SBO discloses personal information about individuals to anyone else for a benefit, service or advantage; or provides a benefit, service or advantage through the collection of personal information about another individual from anyone else • is a credit reporting bodies • is an employee associations registered under the Fair Work (Registered Organisations) Act 2009 • has ‘opted-in’ to APP coverage under s 6EA of the Privacy Act. If an SBO carries on certain activities it must comply with the APPs, and therefore must comply with the NDB scheme, but only in relation to personal information held by the entity for the purpose of, or in connection with, those activities. Those activities include: • providing services to the Commonwealth under a contract • operating a residential tenancy data base • reporting under the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 • conducting a protected action ballot • information retained under the mandatory data retention scheme, as per Part 5-1A"
+  },
+  {
+   "id": "c007",
+   "page": 25,
+   "section": "Entities covered by the NDB scheme",
+   "subsection": "Small business operators",
+   "text": "under a contract • operating a residential tenancy data base • reporting under the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 • conducting a protected action ballot • information retained under the mandatory data retention scheme, as per Part 5-1A of the Telecommunications (Interception and Access) Act 1979. More information about how to determine whether a business or organisation is an APP entity or subject to the APPs for some of its activities is available at Small Business. 16"
+  },
+  {
+   "id": "c008",
+   "page": 26,
+   "section": "Entities covered by the NDB scheme",
+   "subsection": "Credit reporting bodies",
+   "text": "A credit reporting body (CRB) is a business or undertaking that involves collecting, holding, using, or disclosing personal information about individuals for the purpose of providing an entity with information about the credit worthiness of an individual (s 6P). Credit reporting information is defined as credit information or CRB derived information about an individual (s 6(1)). CRBs have obligations under the NDB scheme in relation to their handling of credit reporting information (s 26WE(1)(b)), and in relation to their handling of any other personal information for which they have obligations under APP 11."
+  },
+  {
+   "id": "c009",
+   "page": 26,
+   "section": "Entities covered by the NDB scheme",
+   "subsection": "Credit providers",
+   "text": "The NDB scheme applies to all credit providers whether or not they are APP entities. The section of the Privacy Act under which a credit provider is required to comply with the scheme will depend on what kind of information is involved in the data breach. If it is ‘credit eligibility information’ (defined in s 6(1)) the NDB scheme will apply because of the security requirement in s 21S(1) in relation to that information. If the credit provider is also an APP entity the NDB scheme applies in relation to other personal information because of the security requirement in APP 11. The organisations that are credit providers for the purposes of the Privacy Act (s 6G) are: • a bank • an organisation or small business operator if a substantial part of its business is the provision of credit, such as a building society, finance company or a credit union • a retailer that issues credit cards in connection with the sale of goods or services • an organisation or SBO that supplies goods and services where payment is deferred for seven days or more, such as telecommunications carriers, and energy and water utilities • certain organisations or SBOs that provide credit in connection with the hiring, leasing, or renting of goods. An organisation or SBO that acquires the right of a credit provider in relation to the repayment of an amount of credit is also considered a credit provider, but only in relation to that particular credit (s 6K)."
+  },
+  {
+   "id": "c010",
+   "page": 26,
+   "section": "Entities covered by the NDB scheme",
+   "subsection": "Credit providers",
+   "text": "of a credit provider in relation to the repayment of an amount of credit is also considered a credit provider, but only in relation to that particular credit (s 6K)."
+  },
+  {
+   "id": "c011",
+   "page": 26,
+   "section": "Entities covered by the NDB scheme",
+   "subsection": "TFN recipients",
+   "text": "The NDB scheme applies to TFN recipients 17 in relation to their handling of TFN information (s 26WE(1)(d)). A TFN recipient is any person who is in possession or control of a record that contains TFN information (s 11). TFN information is information that connects a TFN with the identity of a particular individual (s 6). A TFN recipient may also be an APP entity or credit provider. In certain circumstances, entities that are not otherwise covered by the Privacy Act, such as state and local government bodies, may also be authorised to receive TFN information and will be considered TFN recipients. Referred to in the Privacy Act and Privacy (Tax File Number) Rule 2015 as ‘file number recipients’."
+  },
+  {
+   "id": "c012",
+   "page": 27,
+   "section": "Entities covered by the NDB scheme",
+   "subsection": "TFN recipients",
+   "text": "The NDB scheme applies to TFN recipients to the extent that TFN information is involved in a data breach. If TFN information is not involved, a TFN recipient would only need to comply with the NDB scheme for breaches of other types of information if they are also a credit provider or APP entity. More information about TFN recipients is available in The Privacy (Tax File Number) Rule 2015 and the Protection of Tax File Number Information. 18"
+  },
+  {
+   "id": "c013",
+   "page": 27,
+   "section": "Entities covered by the NDB scheme",
+   "subsection": "Overseas activities",
+   "text": "Entities with an ‘Australian link’ The NDB scheme generally extends to the overseas activities of an Australian Government agency (s 5B(1)). It also applies to organisations (including small businesses covered by the Act, outlined above) that have an ‘Australian link’ (s 5B(2)). An organisation has an Australian link either because it is, in summary, incorporated or formed in Australia (see s 5B(1A) for more detail), or where: • it carries on business in Australia or an external Territory, and • it collected or held personal information in Australia or an external Australian Territory, either before or at the time of the act or practice (s 5B(3)). Further information about entities that are taken to have an Australian link is available in Chapter B of the APP Guidelines. 19 Disclosing personal information overseas If an APP entity discloses personal information to an overseas recipient, in line with the requirements of APP 8.1, then the APP entity is deemed to ‘hold’ the information for the purposes of the NDB scheme (s 26WC(1)). APP 8.1 says that an APP entity that discloses personal information to an overseas recipient is required to take reasonable steps to ensure that the overseas recipient does not breach the APPs in relation to the information. This means that if the personal information held by the overseas recipient is subject to loss, unauthorised access, or disclosure, the APP entity is still responsible for assessing whether it is an eligible data breach under the Privacy Act, and if it is, for notifying individuals at risk of serious harm and providing"
+  },
+  {
+   "id": "c014",
+   "page": 27,
+   "section": "Entities covered by the NDB scheme",
+   "subsection": "Overseas activities",
+   "text": "subject to loss, unauthorised access, or disclosure, the APP entity is still responsible for assessing whether it is an eligible data breach under the Privacy Act, and if it is, for notifying individuals at risk of serious harm and providing a statement to the Commissioner. There are exceptions to the requirement in APP 8.1 to take reasonable steps. APP entities that disclose information overseas under an exception in APP 8.2 are not taken to ‘hold’ information they have disclosed overseas under s 26WC. In these circumstances, if the personal information held by the overseas recipient is subject to a data breach, the APP entity does not have obligations to notify about the breach under the NDB scheme. More information about APP 8 is available in Sending Personal Information Overseas. 20"
+  },
+  {
+   "id": "c015",
+   "page": 28,
+   "section": "Entities covered by the NDB scheme",
+   "subsection": "Disclosing credit eligibility information",
+   "text": "If a credit provider discloses credit eligibility information about one or more individuals to a person, a body or a related body corporate that does not have an ‘Australian link’ (s 26WC(2)(a)), 21 the credit provider may also have obligations under the NDB scheme in respect of that information. In the event that credit eligibility information held by the person or related body corporate is subject to loss, unauthorised access, or disclosure, the credit provider is responsible for assessing whether there is an eligible data breach that needs to be notified to individuals at risk of serious harm and the Commissioner. This section only applies to a disclosure of credit eligibility information by a credit provider to a related body corporate under s 21G(3)(b), to a person processing an application for credit made to the credit provider or to a person who manages credit provided by the credit provider under s 21G(3) or to a debt collector under s 21M(1) of the Privacy Act."
+  },
+  {
+   "id": "c016",
+   "page": 29,
+   "section": "Data breaches involving more than one entity",
+   "subsection": "",
+   "text": "Key points • The NDB scheme recognises that entities often hold personal information jointly. For example, one entity may have physical possession of the information, while another has legal control or ownership. • In these circumstances, an eligible data breach of one entity will also be considered an eligible data breach of other entities that hold the affected information. Both will have obligations under the NDB scheme. • In general, compliance by one entity will also be taken as compliance by each of the entities that hold the information. As such, only one entity needs to take the steps required by the NDB scheme. The NDB scheme leaves it up to the entities to decide which of them should do so. • OAIC suggests that, in general, the entity with the most direct relationship with the individuals affected by the data breach should carry out notification."
+  },
+  {
+   "id": "c017",
+   "page": 29,
+   "section": "Data breaches involving more than one entity",
+   "subsection": "When is information held jointly?",
+   "text": "Under s 6(1) of the Privacy Act, an entity is taken to ‘hold’ personal information if it has possession or control of a record that contains personal information. This means that the term ‘holds’ extends beyond physical possession of a record to include a record that an entity has a right or power to deal with, even if it does not physically possess the record or own the medium on which it is stored. For example, one entity may store its records with a cloud service provider. Since the cloud service provider has possession of the records, it will be taken to hold the personal information. Because the first entity has contractual rights to retain control of the records (such as maintaining rights to access and use the records), both entities hold the information. Whether an entity will be taken to ‘hold’ personal information will therefore depend on the particular circumstances of the arrangement. Other examples where two or more entities may hold the same information include: • outsourcing arrangements • Commonwealth contracts • joint ventures."
+  },
+  {
+   "id": "c018",
+   "page": 30,
+   "section": "Data breaches involving more than one entity",
+   "subsection": "When is information held jointly? – Example",
+   "text": "A large market research company is conducting focus groups on behalf of its client, a fast food outlet, using a list of interviewees provided by its client for that purpose. The contractual arrangements between the market research company and the fast food outlet give the fast food outlet effective control over how the information is handled by the research company. Following the focus group sessions, all participants give consent to participate in future research projects for the research company’s other clients. The research company creates a new record containing the participant’s names and contact details. Although the record contains the same information that the market research company originally received from the fast food outlet, only the market research company has possession or control over the newly created record. This means that only the market research company would have NDB scheme obligations in the event of a data breach affecting the newly created record."
+  },
+  {
+   "id": "c019",
+   "page": 30,
+   "section": "Data breaches involving more than one entity",
+   "subsection": "Responding to data breaches of jointly held information",
+   "text": "In situations where two or more entities hold the same record of personal information, both entities are generally responsible for complying with the NDB scheme in relation to this record. However, exceptions apply so that only one of the entities that jointly holds information needs to comply with the NDB scheme’s assessment and notification requirements on behalf of the group. For example, if a data breach affects one or more other entities that jointly hold personal information, and one entity has assessed the suspected breach, the other entities are not required to also assess the breach (s 26WJ). If no assessment is conducted, depending on the circumstances, each entity that holds the information may be found to be in breach of the assessment requirements. Similarly, only one entity needs to notify individuals and the Commissioner (s 26WM) if there is an eligible data breach involving personal information jointly held by more than one entity (see Identifying Eligible Data Breaches). If none of the entities notify, then all of the entities may be found to have breached the notification requirements of the NDB scheme (s 26WL(2)). See Exceptions to Notification Obligations for more information about the circumstances in which specific exceptions apply to entities that jointly hold information."
+  },
+  {
+   "id": "c020",
+   "page": 30,
+   "section": "Data breaches involving more than one entity",
+   "subsection": "How to allocate responsibility for compliance",
+   "text": "Each entity that holds personal information involved in an eligible data breach, should be able to demonstrate they are meeting the requirements of the NDB scheme. The NDB scheme does not prescribe which entity should conduct an assessment of a suspected data breach, nor which entity should notify individuals and the Commissioner about an eligible data breach. This allows entities to tailor their arrangements to accommodate their particular contractual and customer relationships. Accordingly, where information is held jointly, entities should establish clear procedures for complying with the NDB scheme when entering into service agreements or other relevant contractual arrangements. This may include considering obligations around the communication of suspected breaches, processes for conducting assessments, and responsibility for containment, remediation, and notification."
+  },
+  {
+   "id": "c021",
+   "page": 31,
+   "section": "Data breaches involving more than one entity",
+   "subsection": "How to allocate responsibility for compliance",
+   "text": "The Commissioner suggests that, in general, the entity with the most direct relationship with the individuals at risk of serious harm may be best placed to notify. This will allow individuals to better understand the notification, and how the eligible data breach might affect them."
+  },
+  {
+   "id": "c022",
+   "page": 31,
+   "section": "Data breaches involving more than one entity",
+   "subsection": "How to allocate responsibility for compliance – Example",
+   "text": "A medical practice stores paper-based patient records with a contracted storage provider. The storage provider’s premises are broken into and a number of items stolen. While the storage provider cannot immediately determine if the stolen items included the medical practice’s records, it suspects that they might have been included. Both the medical practice and the storage provider hold the records for the purpose of the Privacy Act, so both have an obligation to conduct an assessment and, if required, notify. Since the storage provider is more familiar with its facilities, the entities decide that the storage provider is best placed to conduct an assessment and determine if the records were stolen. Once the provider determines that the records were stolen, the medical practice assists the assessment by using its knowledge about the affected individuals to conclude that serious harm is likely. Although the storage provider’s insurance company has agreed to cover the cost of notification, the storage provider and medical practice agree that it is most appropriate that notification come from the medical practice, as the relevant individuals do not have any pre-existing relationship with the storage provider. As such, the medical practice notifies the individuals about the incident and is reimbursed by the storage provider and its insurer for the costs of notification."
+  },
+  {
+   "id": "c023",
+   "page": 32,
+   "section": "Identifying eligible data breaches",
+   "subsection": "",
+   "text": "Key points • The NDB scheme requires regulated entities to notify particular individuals and the Commissioner about ‘eligible data breaches’. A data breach is eligible if it is likely to result in serious harm to any of the individuals to whom the information relates. • Whether a data breach is likely to result in serious harm requires an objective assessment, determined from the viewpoint of a reasonable person in the entity’s position. • Not all data breaches are eligible. For example, if an entity acts quickly to remediate a data breach, and as a result of this action the data breach is not likely to result in serious harm, there is no requirement to notify any individuals or the Commissioner. There are also exceptions to notifying in certain circumstances."
+  },
+  {
+   "id": "c024",
+   "page": 32,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Eligible data breach",
+   "text": "An eligible data breach arises when the following three criteria are satisfied: 1. there is unauthorised access to or unauthorised disclosure of personal information, or a loss of personal information, that an entity holds (see, What is a ‘Data Breach’?) 2. this is likely to result in serious harm to one or more individuals (see, Is Serious Harm Likely?), and 3. the entity has not been able to prevent the likely risk of serious harm with remedial action (see Preventing Serious Harm With Remedial Action). This document is about the threshold at which an incident is considered an ‘eligible data breach’ that will be notifiable under the scheme unless an exception applies. Assessing a Suspected Data Breach provides guidance to entities about the process to follow when carrying out an assessment of ‘whether there are reasonable grounds to suspect that there may have been an eligible data breach of the entity’ under s 26WH."
+  },
+  {
+   "id": "c025",
+   "page": 32,
+   "section": "Identifying eligible data breaches",
+   "subsection": "What is a ‘data breach’?",
+   "text": "The first step in deciding whether an eligible data breach has occurred involves considering whether there has been a data breach; that is, unauthorised access to or unauthorised disclosure of personal information, or a loss of personal information (s 26WE(2)). The Privacy Act does not define these terms. The following analysis and examples draw on the ordinary meaning of these words. • Unauthorised access of personal information occurs when personal information that an entity holds is accessed by someone who is not permitted to have access. This includes unauthorised access by an employee of the entity, or an independent contractor, as well as unauthorised access by an external third party (such as by hacking). Examples of unauthorised access include: o an employee browsing sensitive customer records without any legitimate purpose o a computer network being compromised by an external attacker resulting in personal information being accessed without authority."
+  },
+  {
+   "id": "c026",
+   "page": 33,
+   "section": "Identifying eligible data breaches",
+   "subsection": "What is a ‘data breach’?",
+   "text": "• Unauthorised disclosure occurs when an entity, whether intentionally or unintentionally, makes personal information accessible or visible to others outside the entity and releases that information from its effective control in a way that is not permitted by the Privacy Act. This includes an unauthorised disclosure by an employee of the entity. For example, an employee of an entity accidentally publishing a confidential data file containing the personal information of one or more individuals on the internet would be considered unauthorised disclosure • Loss refers to the accidental or inadvertent loss of personal information held by an entity, in circumstances where is it is likely to result in unauthorised access or disclosure. An example is where an employee of an entity leaves personal information (including hard copy documents, unsecured computer equipment, or portable storage devices containing personal information) on public transport. Under the NDB scheme, if personal information is lost in circumstances where subsequent unauthorised access to or disclosure of the information is unlikely, there is no eligible data breach (s 26WE(2)(b)(ii)). For example, if the personal information is remotely deleted before an unauthorised person could access the information, or if the information is encrypted to a high standard making unauthorised access or disclosure unlikely, then there is no eligible data breach."
+  },
+  {
+   "id": "c027",
+   "page": 33,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Is serious harm likely?",
+   "text": "The second step in deciding whether an eligible data breach has occurred involves deciding whether, from the perspective of a reasonable person, the data breach would be likely to result in serious harm to an individual whose personal information was part of the data breach. For the NDB scheme a ‘reasonable person’ means a person in the entity’s position (rather than the position of an individual whose personal information was part of the data breach or any other person), who is properly informed, based on information immediately available or following reasonable inquiries or an assessment of the data breach. In general, entities are not expected to make external enquiries about the circumstances of each individual whose information is involved in the breach. ‘Reasonable person’ is also discussed in general terms in Chapter B of the OAIC’s APP Guidelines. 22 The phrase ‘likely to occur’ means the risk of serious harm to an individual is more probable than not (rather than possible). ‘Serious harm’ is not defined in the Privacy Act. In the context of a data breach, serious harm to an individual may include serious physical, psychological, emotional, financial, or reputational harm. Entities should assess the risk of serious harm holistically, having regard to the likelihood of the harm eventuating for individuals whose personal information was part of the data breach and the consequences of the harm. The NDB scheme includes a non-exhaustive list of ‘relevant matters’ that may assist entities to assess the likelihood of serious harm. These are set out in s 26WG as follows: • the kind"
+  },
+  {
+   "id": "c028",
+   "page": 33,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Is serious harm likely?",
+   "text": "breach and the consequences of the harm. The NDB scheme includes a non-exhaustive list of ‘relevant matters’ that may assist entities to assess the likelihood of serious harm. These are set out in s 26WG as follows: • the kind or kinds of information"
+  },
+  {
+   "id": "c029",
+   "page": 34,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Is serious harm likely?",
+   "text": "• the sensitivity of the information • whether the information is protected by one or more security measures • if the information is protected by one or more security measures – the likelihood that any of those security measures could be overcome • the persons, or the kinds of persons, who have obtained, or who could obtain, the information • if a security technology or methodology: o was used in relation to the information, and; o was designed to make the information unintelligible or meaningless to persons who are not authorised to obtain the information • the likelihood that the persons, or the kinds of persons, who: o have obtained, or who could obtain, the information, and; o have, or are likely to have, the intention of causing harm to any of the individuals to whom the information relates; o have obtained, or could obtain, information or knowledge required to circumvent the security technology or methodology • the nature of the harm • any other relevant matters. As some of these matters involve overlapping considerations, they are discussed further below, under the broader headings: 1. the type or types of personal information involved in the data breach 2. the circumstances of the data breach 3. the nature of the harm that may result from the data breach."
+  },
+  {
+   "id": "c030",
+   "page": 34,
+   "section": "Identifying eligible data breaches",
+   "subsection": "The type or types of personal information involved in the data breach",
+   "text": "Some kinds of personal information may be more likely to cause an individual serious harm if compromised. Examples of the kinds of information that may increase the risk of serious harm if there is a data breach include: • ‘sensitive information’, 23 such as information about an individual’s health • documents commonly used for identity fraud (including Medicare card, driver licence, and passport details) • financial information • a combination of types of personal information (rather than a single piece of personal information) that allows more to be known about the individuals the information is about. See s 6(1) of the Privacy Act for categories of personal information that are covered by the definition of ‘sensitive information’."
+  },
+  {
+   "id": "c031",
+   "page": 35,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Circumstances of the data breach",
+   "text": "The specific circumstances of the data breach are relevant when assessing whether there is a risk of serious harm to an individual. This may include consideration of the following: • Whose personal information was involved in the breach? An entity could consider whose personal information was involved in the breach, as certain people may be at particular risk of serious harm. A data breach involving the names and addresses of individuals might not, in various circumstances, be likely to result in serious harm to an individual, particularly if that information is already publicly available. However, if the entity knows that the information involved primarily relates to individuals known to be vulnerable, this may increase the risk of serious harm • How many individuals were involved? If the breach involves the personal information of many individuals, the scale of the breach should affect an entity’s assessment of likely risks. Even if an entity considers that each individual will only have a small chance of suffering serious harm, if more people’s personal information is involved in the breach, it may be more likely that at least some of the individuals will experience serious harm. From a risk perspective, it may be prudent, depending on the particular circumstances, to assume a breach involving the personal information of a very large number of people is likely to result in serious harm to at least one of those individuals, unless context or circumstances would support this not being the case • Do the circumstances of the data breach affect the sensitivity of the personal information?"
+  },
+  {
+   "id": "c032",
+   "page": 35,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Circumstances of the data breach",
+   "text": "is likely to result in serious harm to at least one of those individuals, unless context or circumstances would support this not being the case • Do the circumstances of the data breach affect the sensitivity of the personal information? A breach that may publicly associate an individual’s personal information with a sensitive product or service they have used may increase the risk of serious harm. For example, a data breach involving an individual’s name may involve a risk of serious harm if the entity’s name links the individual with a particular form of physical or mental health care 24 • How long has the information been accessible? The time between when the data breach occurred and when the entity discovers the breach will be relevant to the entity’s consideration of whether serious harm is likely to occur. For example, if personal information is publically accessible for a significant period before the entity is aware of the data breach, it may be more likely that the personal information have been accessed in ways that will result in serious harm to the individuals affected • Is the personal information adequately encrypted, anonymised, or otherwise not easily accessible? A relevant consideration is whether the information is rendered unreadable through the use of security measures to protect the stored information, or if it is stored in such a way so that it cannot be used if breached. In considering whether security measures (such as encryption) applied to compromised data are adequate, the entity should consider whether the method of encryption is an industry-recognised"
+  },
+  {
+   "id": "c033",
+   "page": 35,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Circumstances of the data breach",
+   "text": "is stored in such a way so that it cannot be used if breached. In considering whether security measures (such as encryption) applied to compromised data are adequate, the entity should consider whether the method of encryption is an industry-recognised secure standard at the time the entity is assessing the likelihood of risk. Additionally, an entity should have regard to whether the unauthorised recipients of the personal information would have the capability to circumvent these safeguards. For example, if an attacker holds both encrypted data and the encryption key needed to decrypt that data, the entity should not assume the data is secure • What parties have gained or may gain unauthorised access to the personal information? The unauthorised disclosure of an individual’s criminal record to someone who knows that Another example would include the information disclosed in the Ashely Madison data breach in 2015. See Ashley"
+  },
+  {
+   "id": "c034",
+   "page": 36,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Circumstances of the data breach",
+   "text": "individual personally may increase the risk of serious reputational harm for that individual. In addition, where a third party that obtains unauthorised access to personal information, or appears to target personal information of a particular individual or group of individuals, this may increase the risk of serious harm as it may be more likely the personal information is intended for malicious purposes."
+  },
+  {
+   "id": "c035",
+   "page": 36,
+   "section": "Identifying eligible data breaches",
+   "subsection": "The nature of the harm",
+   "text": "In assessing the risk of serious harm, entities should consider the broad range of potential kinds of harms that may follow a data breach. It may be helpful for entities assessing the likelihood of harm to consider a number of scenarios that would result in serious harm and the likelihood of each. Examples may include: • identity theft • significant financial loss by the individual • threats to an individual’s physical safety • loss of business or employment opportunities • humiliation, damage to reputation or relationships • workplace or social bullying or marginalisation. The likelihood of a particular harm occurring, as well as the anticipated consequences for individuals whose personal information is involved in the data breach if the harm materialises, are relevant considerations."
+  },
+  {
+   "id": "c036",
+   "page": 36,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Preventing serious harm with remedial action",
+   "text": "The NDB scheme provides entities with the opportunity to take positive steps to address a data breach in a timely manner, and avoid the need to notify. If an entity takes remedial action such that the data breach would not be likely to result in serious harm, then the breach is not an eligible data breach for that entity or for any other entity (s 26WF(1), s 26WF(2), s 26WF(3)). For breaches where information is lost, the remedial action is adequate if it prevents unauthorised access to, or disclosure of personal information (s 26WF(3)). If the remedial action prevents the likelihood of serious harm to some individuals within a larger group of individuals whose information was compromised in a data breach, notification to those individuals for whom harm has been prevented is not required. Examples of remedial action that may prevent serious harm occurring include:"
+  },
+  {
+   "id": "c037",
+   "page": 37,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Example 1",
+   "text": "A data file, which includes the personal information of numerous individuals, is sent to an incorrect recipient outside the entity. The sender realises the error and contacts the recipient, who advises that the data file has not been accessed. The recipient has an ongoing contractual relationship with the sender, and regards the recipient as reliable and trustworthy. The sender then confirms that the recipient has not copied, and has permanently deleted the data file. In the circumstances, the sender decides that there is no likely risk of serious harm."
+  },
+  {
+   "id": "c038",
+   "page": 37,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Example 2",
+   "text": "An employee leaves a smartphone on public transport while on their way to work. When the employee arrives at work they realise that the smartphone has been lost, and ask their employer’s IT support staff to remotely delete the information on the smartphone. Because of the security measures on the smartphone, the IT support staff are confident that its content could not have been accessed in the short period between when it was lost and when its contents were deleted."
+  },
+  {
+   "id": "c039",
+   "page": 38,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Examples of data breaches",
+   "text": "The following examples are provided to illustrate some of the considerations that entities might take into account when assessing whether a data breach is likely to result in serious harm. However, whether any data breach is notifiable depends on the particular circumstances of the breach. The acts and practices described in these examples may raise other issues under the Privacy Act, such as whether these organisations have taken reasonable steps to secure personal information, as required by APP 11.1."
+  },
+  {
+   "id": "c040",
+   "page": 38,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Example 1 — strong encryption making notification unnecessary",
+   "text": "Insure, an insurance company, decides to update its customer relationship management and record keeping software. While running a test, the IT team installing the software discovers that some customer records were accessed by an unauthorised third party more than a year ago. The customer records involved are primarily encrypted payment card information. Since Insure suspects fraudulent activity as the motive for the unauthorised access, it notifies the police and hires an external IT security consultant to conduct an audit and security assessment. The audit confirms that 500 customer records were involved in the data breach, and that an overseas source was responsible for the hack. The IT security consultant’s comprehensive sweeps of the internet and dark web were unable to find evidence that the information was offered for sale or otherwise disclosed online. The IT security consultant also assesses that because of the high standard of encryption used for the credit card information, it is unlikely that this information could be accessed by the hacker. Insure implemented the recommendations of its IT security consultant, including new IT security protocols and intrusion detection software. Insure determines that it is not likely that the individuals whose personal information is involved in the data breach are at risk of serious harm. Therefore, Insure decides it is not an eligible data breach, and is not required to notify affected individuals or the Commissioner. Nonetheless, it decides that as a customer service measure, it should tell the individuals about the incident. It sends an email to the customers informing them of the incident and providing"
+  },
+  {
+   "id": "c041",
+   "page": 38,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Example 1 — strong encryption making notification unnecessary",
+   "text": "not required to notify affected individuals or the Commissioner. Nonetheless, it decides that as a customer service measure, it should tell the individuals about the incident. It sends an email to the customers informing them of the incident and providing some advice on personal information security measures they can take. This notification is not required by the NDB scheme, so can take any form that Insure considers appropriate."
+  },
+  {
+   "id": "c042",
+   "page": 38,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Example 2 — notification following unintentional publication of sensitive data",
+   "text": "Medicines, a chain of low-cost pharmacies, becomes aware that its customer database, including records about dispensing of prescription drugs, has been publicly available on the internet due to a technical error. Medicines’ security consultants identify that the database was publicly available for a limited time and that it was only accessed a few times."
+  },
+  {
+   "id": "c043",
+   "page": 39,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Example 2 — notification following unintentional publication of sensitive data",
+   "text": "However, Medicines is unable to determine who accessed the data or if they kept a copy. Given the sensitivity of the personal information contained in the database, including drugs related to the treatment of addictive and psychiatric conditions, Medicines’ risk assessment concludes that the data breach would be likely to result in serious harm to some of its customers. Medicines decides to notify all customers whose personal information is involved in the data breach and the Commissioner. Because it does not have contact details for many of the customers who filled prescriptions with it in person, it publishes a notice describing the breach on its website and posts a copy in a prominent location at each of its stores."
+  },
+  {
+   "id": "c044",
+   "page": 39,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Example 3 — data breach experienced by overseas contractor leading to phishing",
+   "text": "Consumestuff enters into a contract with an automated email marketing platform located overseas, which it uses to communicate with its customers. The service provider detects that the bulk mailing distribution lists for Consumestuff have been downloaded by an external IP address. The bulk mailing distribution lists include the name, email address, gender, and suburb of Consumestuffs’ customers. The service provider notifies Consumestuff, who conducts an immediate investigation into how the mailing lists were accessed and downloaded. An IT security sweep detects malware on a Consumestuff employee’s computer, and the investigation concludes that the employee’s login credentials for the service provider were obtained after the employee unintentionally opened an email attachment from a malicious third party attacker. As Consumestuff also held the personal information, and assuming that the service provider is not an APP entity, Consumestuff undertakes an assessment to determine whether it is required to notify individuals and the Commissioner. As part of its assessment, Consumestuff identifies that some of the individuals whose personal information was involved in the data breach received emails that fraudulently claimed to be sent from Consumestuff asking for customer credit card details. Given this information, Consumestuff concludes that it is more probable than not that the attacker will use the information in the mailing lists for the purposes of fraud or identity theft, and that it is likely that some of the individuals will suffer serious financial harm as a result of this. Given this likelihood, Consumestuff sends an email with the relevant information required by the NDB scheme to those individuals whose personal information"
+  },
+  {
+   "id": "c045",
+   "page": 39,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Example 3 — data breach experienced by overseas contractor leading to phishing",
+   "text": "it is likely that some of the individuals will suffer serious financial harm as a result of this. Given this likelihood, Consumestuff sends an email with the relevant information required by the NDB scheme to those individuals whose personal information is involved in the data breach, and notifies the Commissioner. Consumestuffs’ email to these individuals includes information about scam emails and how to identify them, and provides referrals to services that assist individuals in mitigating the risk of identity theft."
+  },
+  {
+   "id": "c046",
+   "page": 40,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Example 4 — loss of unencrypted storage media containing personal information",
+   "text": "A member of the human resources team of a Government Department (the Department) copies the employee records of the Department’s 2000 employees onto a portable memory stick, to do work at home. This action was in breach of the Department’s policies, and Australian Privacy Principle 11. The memory stick is lost by the employee who held it. They report this to their manager. The Department follows its data breach response plan, and as a first step conducts a search for the memory stick, but fails to locate it. The information contained in the memory stick includes the names, salary information, TFNs, home addresses, phone numbers, birth dates, and in some cases health information (including disability information) of current staff. As the data on the memory stick is not encrypted, the Department concludes that unauthorised access is likely to occur. Due to the sensitivity of the unencrypted information – not only the extent and variety of the information, but also the inclusion of health and disability information in the records – the Department’s risk assessment finds that there is a likely risk of serious harm to at least one of the individuals whose personal information is involved in the data breach. On this basis, the Department considers that it is an eligible data breach for the purposes of the NDB scheme, and prepares a statement to notify the Commissioner. A senior staff member emails the relevant staff to notify them of the eligible data breach, and provides the content of the statement prepared for the Commissioner. In the notification, the Department"
+  },
+  {
+   "id": "c047",
+   "page": 40,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Example 4 — loss of unencrypted storage media containing personal information",
+   "text": "and prepares a statement to notify the Commissioner. A senior staff member emails the relevant staff to notify them of the eligible data breach, and provides the content of the statement prepared for the Commissioner. In the notification, the Department also offers staff an apology for the breach, notes that the OAIC has been informed of the breach, and explains what steps have been put in place to prevent this type of a breach occurring in the future."
+  },
+  {
+   "id": "c048",
+   "page": 41,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Example 5 — online banking fraud and remedial action",
+   "text": "A bank’s fraud detection systems flag that there has been unusual activity on an individual’s online banking account, when a substantial amount of money is transferred to an account in another country. The fraud team assesses the activity, and finds that the account was accessed by an unauthorised attacker who had obtained control of the individual’s account. Through its existing fraud management processes, the bank’s fraud team notify the individual that it is temporarily freezing online access to the account due to the fraudulent activity, resets the password for online access and returns the stolen funds. As part of its risk assessment, the fraud team confirms that the individual’s other accounts have not been compromised, and recommends to the individual that they change any similar passwords to other services. A member of the bank’s fraud team assesses whether there is a risk of likely harm to the individual, and concludes that as a result of the above steps taken to remediate the unauthorised access, it is not likely the individual will be at risk of serious harm. Given this remedial action, the bank does not notify the Commissioner."
+  },
+  {
+   "id": "c049",
+   "page": 41,
+   "section": "Identifying eligible data breaches",
+   "subsection": "Example 6 — email sent to the wrong recipient contained before serious harm can occur",
+   "text": "CareHeeps, a claims management service provider, regularly sends updates to its clients about the status of the workers compensation claims of their employees. Because of human error, an employee of CareHeeps accidentally sends an email with an attachment about the employees of Business A to another client, Business B. The attachment contains the personal information of 200 employees of Business A, and includes their name, address, date of birth, and health information about their claimed injury. A CareHeeps employee realises the error, and contacts Business B to delete the email with the attachment. Business B confirms that one of its employees accessed the file without initially realising the error, but provides written confirmation that it has since deleted all copies of the email and attachment. The employee who accessed the file has also undertaken not to divulge the information. CareHeeps’ assessment of the remedial action taken concludes that, while the file included sensitive information about the individuals’ health, its contractual arrangements with Business B and the written assurance provided by Business B has prevented the likely risk of serious harm to any individuals. As a consequence, CareHeeps determines that it is not an eligible data breach that needs to be notified to individuals or the Commissioner."
+  },
+  {
+   "id": "c050",
+   "page": 42,
+   "section": "Exceptions to notification obligations",
+   "subsection": "",
+   "text": "Key points • The NDB scheme requires regulated entities to notify individuals and the Commissioner of ‘eligible data breaches’. A data breach is an eligible data breach if an individual is likely to experience serious harm (see Identifying Eligible Data Breaches and Notifying Individuals About an Eligible Data Breach). • There are some exceptions to the notification requirements, which relate to: o eligible data breaches of other entities (see Data Breaches Involving More Than One Entity) o enforcement related activities o inconsistency with secrecy provisions o declarations by the Commissioner. • Data breaches that are notified under s 75 of the My Health Records Act, do not need to be notified under the NDB scheme."
+  },
+  {
+   "id": "c051",
+   "page": 42,
+   "section": "Exceptions to notification obligations",
+   "subsection": "Enforcement related activities",
+   "text": "An enforcement body does not need to notify individuals about an eligible data breach if its chief executive officer (CEO) believes on reasonable grounds that notifying individuals would be likely to prejudice an enforcement related activity conducted by, or on behalf, of the enforcement body (s 26WN). 25 ‘Believes on reasonable grounds’ means the CEO must have a basis for the belief. It is the responsibility of the enforcement body to be able to justify the reasonable grounds for this belief, and the decision should be documented. ‘Reasonable belief’ is discussed further in Chapter B of the OAIC’s APP Guidelines. 26 The enforcement body must still provide a statement about the eligible data breach to the Commissioner (see What to Include in an Eligible Data Breach Statement). However, this statement does not have to include the steps recommended for individuals to take in response to the data breach, because individuals are not being notified (s 26WN). If this exception applies, and the eligible data breach involves other entities, these other entities are not required to notify individuals (s 26WN(e)). Further, these other entities are not required to provide a statement about the eligible data breach to the Commissioner if the enforcement body has done so (s 26WM). To rely on this exception, other entities would usually need a written statement regarding the eligible data breach, dated and signed by the CEO of the enforcement body. This exception does not apply if an eligible data breach is unrelated to an enforcement activity. For example, the exception may not apply to an"
+  },
+  {
+   "id": "c052",
+   "page": 42,
+   "section": "Exceptions to notification obligations",
+   "subsection": "Enforcement related activities",
+   "text": "regarding the eligible data breach, dated and signed by the CEO of the enforcement body. This exception does not apply if an eligible data breach is unrelated to an enforcement activity. For example, the exception may not apply to an eligible data breach involving employees’ personal information, which is unrelated to an investigation. See s 6(1) of the Privacy Act for definitions of enforcement body and enforcement related activity."
+  },
+  {
+   "id": "c053",
+   "page": 43,
+   "section": "Exceptions to notification obligations",
+   "subsection": "Inconsistency with secrecy provisions",
+   "text": "Exceptions to notifying individuals or the Commissioner may apply where a Commonwealth law prohibits or regulates the use or disclosure of information (a secrecy provision). In particular: • the requirement to provide a statement to the Commissioner about the eligible data breach does not apply to the extent that this requirement is inconsistent with a secrecy provision (s 26WP(2)) • the requirement to notify individuals about an eligible data breach does not apply to the extent that providing this notice is inconsistent with a secrecy provision (s 26WP(3)). The exceptions in s 26WP are intended to preserve the operation of specific secrecy provisions in other legislation. A common purpose of secrecy provisions is to prohibit the unauthorised disclosure of client information. Most secrecy provisions allow the disclosure of information in certain circumstances, such as with an individual’s consent where the information relates to them, or where the disclosure of information relates to an officer’s duties, or the exercise of their powers or functions. If an eligible data breach occurs, agencies should apply the exceptions under s 26WP only to the extent necessary to avoid inconsistency with a secrecy provision. For example, if providing a statement about an eligible data breach to the Commissioner (s 26WK) would not be inconsistent with a secrecy provision, but notifying individuals (s 26WL) would be, the entity would only be required to notify the Commissioner. The following is relevant in assessing whether a secrecy provision is inconsistent with the requirements of the NDB scheme: • If a secrecy provision permits the disclosure of information that"
+  },
+  {
+   "id": "c054",
+   "page": 43,
+   "section": "Exceptions to notification obligations",
+   "subsection": "Inconsistency with secrecy provisions",
+   "text": "the entity would only be required to notify the Commissioner. The following is relevant in assessing whether a secrecy provision is inconsistent with the requirements of the NDB scheme: • If a secrecy provision permits the disclosure of information that is required or authorised by another law (such as the Privacy Act), there would not be an inconsistency between the secrecy provision and the NDB scheme notification requirements. • If a secrecy provision does not allow the disclosure of information, even if the disclosure is required or authorised by another law (such as the Privacy Act), there may be inconsistency between the secrecy provision and the NDB scheme notification requirements. • If a secrecy provision permits the disclosure of information in the course of an officer’s duties, there would not be inconsistency between the secrecy provision and the NDB scheme notification requirements, as complying with the notification requirements is the responsibility of the agency through its officers."
+  },
+  {
+   "id": "c055",
+   "page": 43,
+   "section": "Exceptions to notification obligations",
+   "subsection": "Declarations by the Australian Information Commissioner",
+   "text": "In some circumstances, the Commissioner may declare by written notice that an entity does not need to comply with the NDB scheme notification requirements (s 26WQ) in relation to a specific eligible data breach. The purpose of the declaration by the Commissioner is to provide an exception where compliance with the NDB notification requirements would conflict with the public interest. The Commissioner may declare that an entity is not required to provide a statement to the Commissioner or to notify particular individuals (s 26WQ(1)(c)), or that notification to individuals is delayed for a specified period (s 26WQ(1)(d))."
+  },
+  {
+   "id": "c056",
+   "page": 44,
+   "section": "Exceptions to notification obligations",
+   "subsection": "Declarations by the Australian Information Commissioner",
+   "text": "The Commissioner cannot make a declaration under s 26WQ unless satisfied that it is reasonable in the circumstances to do so, having regard to the public interest, relevant advice received from an enforcement body or the Australian Signals Directorate, and any other relevant matter. While the Commissioner is empowered to make a declaration if it is ‘reasonable in the circumstances to do so’, the Commissioner still has discretion about whether to make a declaration, and on what terms. In deciding whether to make a declaration, and on what terms, the Commissioner will have regard to the Objects of the Privacy Act and other relevant matters. The Commissioner will consider whether the risks associated with notifying of a particular eligible data breach outweigh the benefits of notification to individuals at risk of serious harm. Given the clear objective of the scheme to promote notification of eligible data breaches, and the inclusion of exceptions in the scheme that remove the need to notify in a wide range of circumstances, the Commissioner expects that declarations under s 26WQ will only be made in exceptional cases and only after a compelling case has been put forward by the entity seeking the declaration. The procedure for applying for a declaration, and factors the Commissioner may consider, are outlined in the OAIC’s Guide to Privacy Regulatory Action — Chapter 9: Data Breach Incidents. Action — Chapter 9: Data Breach Incidents."
+  },
+  {
+   "id": "c057",
+   "page": 44,
+   "section": "Exceptions to notification obligations",
+   "subsection": "My Health Record system data breaches",
+   "text": "Certain participants in the My Health Record system (such as the System Operator, a registered healthcare provider organisation, a registered repository operator, a registered portal operator or a registered contracted service provider), are required to report data breaches that occur in relation to the My Health Record system to the either the System Operator or the Commissioner, or both, depending on the entity reporting the data breach (s 75 of the My Health Records Act). If a data breach has been, or is required to be, notified under s 75 of the My Health Records Act, the NDB scheme does not apply (s 26WD). This exception is intended to avoid duplication of notices under the NDB scheme and the data breach notification requirements in the My Health Record system. Information about data breach notification requirements of the My Health Records Act is available in the OAIC’s Guide to Mandatory Data Breach Notification in the My Health Record System. 27 Only notifications under s 75 of the My Health Records Act fall within this exception. Notifications under other schemes such as that within the National Cancer Screening Register Act are not excluded from the NDB scheme."
+  },
+  {
+   "id": "c058",
+   "page": 45,
+   "section": "Exceptions to notification obligations",
+   "subsection": "My Health Record system data breaches – Example",
+   "text": "A practice manager who has access to the My Health Record system for administrative purposes only, accesses a patient’s My Health Record clinical information without authorisation. The GP discovers this incident and immediately notifies the System Operator and the Commissioner as required under s 75 of the My Health Records Act. There is no need to also notify this data breach under the Privacy Act. At or about the same time, the practice manager also accesses the GP’s clinical database (not part of the My Health Record system), and downloads their ex-partner’s health information without authorisation. Upon discovering this incident, the GP takes immediate steps to contain the breach and, due to the nature of the relationship between the practice manager and the patient, decides there is a likelihood of serious harm to the patient in the circumstances. The GP notifies the patient and the Commissioner about the data breach, as required under the Privacy Act’s NDB scheme."
+  },
+  {
+   "id": "c059",
+   "page": 46,
+   "section": "Assessing a suspected data breach",
+   "subsection": "",
+   "text": "Key points • If an entity has reasonable grounds to believe that it has experienced an eligible data breach, it must promptly notify individuals and the Commissioner about the breach, unless an exception applies. • In contrast, if an entity suspects that it may have experienced an eligible data breach, it must quickly assess the situation to decide whether or not there has been an eligible data breach. • An assessment must be reasonable and expeditious, and entities may develop their own procedures for assessing a suspected data breach."
+  },
+  {
+   "id": "c060",
+   "page": 46,
+   "section": "Assessing a suspected data breach",
+   "subsection": "When must entities assess a suspected breach?",
+   "text": "The NDB scheme is designed so that only serious (‘eligible’) data breaches are notified (see Identifying Eligible Data Breaches). If an entity is aware of reasonable grounds to believe that there has been an eligible data breach, it must promptly notify individuals at risk of serious harm and the Commissioner about the eligible data breach (see Notifying Individuals About an Eligible Data Breach). On the other hand, if an entity only has reason to suspect that there may have been a serious breach, it needs to move quickly to resolve that suspicion by assessing whether an eligible data breach has occurred. If, during the course of an assessment, it becomes clear that there has been an eligible breach, then the entity needs to promptly comply with the notification requirements. The requirement for an assessment is triggered if an entity is aware that there are reasonable grounds to suspect that there may have been a serious breach (s 26WH(1)). Whether an entity is ‘aware’ of a suspected breach is a factual matter in each case, having regard to how a reasonable person who is properly informed would be expected to act in the circumstances. For instance, if a person responsible for compliance or personnel with appropriate seniority are aware of information that suggests a suspected breach may have occurred, an assessment should be done. An entity should not unreasonably delay an assessment of a suspected eligible breach, for instance by waiting until its CEO or board is aware of information that would otherwise trigger reasonable suspicion of a breach within the"
+  },
+  {
+   "id": "c061",
+   "page": 46,
+   "section": "Assessing a suspected data breach",
+   "subsection": "When must entities assess a suspected breach?",
+   "text": "should be done. An entity should not unreasonably delay an assessment of a suspected eligible breach, for instance by waiting until its CEO or board is aware of information that would otherwise trigger reasonable suspicion of a breach within the entity. The Commissioner expects entities to have practices, procedures, and systems in place to comply with their information security obligations under APP 11, enabling suspected breaches to be promptly identified, reported to relevant personnel, and assessed if necessary."
+  },
+  {
+   "id": "c062",
+   "page": 46,
+   "section": "Assessing a suspected data breach",
+   "subsection": "How quickly must an assessment be done?",
+   "text": "An entity must take all reasonable steps to complete the assessment within 30 calendar days after the day the entity became aware of the grounds (or information) that caused it to suspect an eligible data breach (s 26WH(2)). The Commissioner expects that wherever possible entities treat 30 days as a maximum time limit for completing an assessment, and endeavour to complete the assessment in a much shorter timeframe, as the risk of serious harm to individuals often increases with time."
+  },
+  {
+   "id": "c063",
+   "page": 47,
+   "section": "Assessing a suspected data breach",
+   "subsection": "How quickly must an assessment be done?",
+   "text": "Where an entity cannot reasonably complete an assessment within 30 days, the Commissioner recommends that it should document this, so that it is able demonstrate: • that all reasonable steps have been taken to complete the assessment within 30 days • the reasons for the delay • that the assessment was reasonable and expeditious."
+  },
+  {
+   "id": "c064",
+   "page": 47,
+   "section": "Assessing a suspected data breach",
+   "subsection": "How is an assessment done?",
+   "text": "Entities must carry out a ‘reasonable and expeditious’ assessment (s 26WH(2)(a)). The Privacy Act does not set out how entities should assess a data breach, and entities may develop their own procedures for assessing a suspected breach. The Commissioner expects that the amount of time and effort entities will expend in an assessment should be proportionate to the likelihood of the breach and its apparent severity. The Commissioner expects that an entity’s approach to data breach management, including its data breach response plan, will incorporate the requirements of the NDB scheme for assessing suspected eligible data breaches. While the Privacy Act does not specify how an assessment should occur, the OAIC suggests that an assessment could be a three-stage process: 1. Initiate: decide whether an assessment is necessary and identify which person or group will be responsible for completing it 2. Investigate: quickly gather relevant information about the suspected breach including, for example, what personal information is affected, who may have had access to the information and the likely impacts 3. Evaluate: make a decision, based on the investigation, about whether the identified breach is an eligible data breach (see Identifying Eligible Data Breaches). The Commissioner recommends that entities document the assessment process and outcome. Remedial action At any time, including during an assessment, an entity can, and should, take steps to reduce any potential harm to individuals caused by a suspected or eligible data breach. If remedial action is successful in preventing serious harm to affected individuals, notification is not required (as explained in Identifying Eligible Data Breaches)."
+  },
+  {
+   "id": "c065",
+   "page": 47,
+   "section": "Assessing a suspected data breach",
+   "subsection": "How is an assessment done?",
+   "text": "steps to reduce any potential harm to individuals caused by a suspected or eligible data breach. If remedial action is successful in preventing serious harm to affected individuals, notification is not required (as explained in Identifying Eligible Data Breaches)."
+  },
+  {
+   "id": "c066",
+   "page": 47,
+   "section": "Assessing a suspected data breach",
+   "subsection": "Breach established — what next?",
+   "text": "Once an entity is aware that there are reasonable grounds to believe that there has been an eligible data breach – whether during the course of an assessment, or when the assessment is complete – it must promptly notify affected individuals and the Commissioner about the breach (see What to Include in an Eligible Data Breach Statement and Notifying Individuals About an Eligible Data Breach)."
+  },
+  {
+   "id": "c067",
+   "page": 48,
+   "section": "Notifying individuals about an eligible data breach",
+   "subsection": "",
+   "text": "Key points • When an entity experiences a data breach, its first step should be to contain the breach where possible and take remedial action. Where serious harm cannot be mitigated through remedial action (see Identifying Eligible Data Breaches), it must notify individuals at risk of serious harm and provide a statement to the Commissioner as soon as practicable. • If it is not practicable to notify individuals at risk of serious harm, an entity must publish a copy of the statement prepared for the Commissioner on its website, and take reasonable steps to bring its contents to the attention of individuals at risk of serious harm. • If a single eligible data breach applies to multiple entities, only one entity needs to notify the Commissioner and individuals at risk of serious harm. It is up to the entities to decide who notifies. Generally, the Commissioner suggests that the entity with the most direct relationship with the individuals at risk of serious harm should undertake the notification."
+  },
+  {
+   "id": "c068",
+   "page": 48,
+   "section": "Notifying individuals about an eligible data breach",
+   "subsection": "Who needs to be notified?",
+   "text": "Once an entity has reasonable grounds to believe there has been an eligible data breach, the entity must, as soon as practicable, make a decision about which individuals to notify, prepare a statement for the Commissioner and notify individuals of the contents of this statement. The NDB scheme provides flexibility — there are three options for notifying individuals at risk of serious harm, depending on what is ‘practicable’ for the entity (s 26WL(2)). Whether a particular option is practicable involves a consideration of the time, effort, and cost of notifying individuals at risk of serious harm in a particular manner. These factors should be considered in light of the capabilities and capacity of the entity."
+  },
+  {
+   "id": "c069",
+   "page": 48,
+   "section": "Notifying individuals about an eligible data breach",
+   "subsection": "Option 1 — Notify all individuals",
+   "text": "If it is practicable, an entity can notify each of the individuals to whom the relevant information relates (s 26WL(2)(a)). That is, all individuals whose personal information was part of the eligible data breach. This option may be appropriate, and the simplest method, if an entity cannot reasonably assess which particular individuals are at risk of serious harm from an eligible data breach that involves personal information about many people, but where the entity has formed the view that serious harm is likely for one or more of the individuals. The benefits of this approach include ensuring that all individuals who may be at risk of serious harm are notified, and allowing them to consider whether they need to take any action in response to the eligible data breach."
+  },
+  {
+   "id": "c070",
+   "page": 48,
+   "section": "Notifying individuals about an eligible data breach",
+   "subsection": "Option 2 — Notify only those individuals at risk of serious harm",
+   "text": "If it is practicable, an entity can notify only those individuals who are at risk of serious harm from the eligible data breach (s 26WL(2)(b)). That is, individuals who are likely to experience serious harm as a result of the eligible data breach. If an entity identifies that only a particular individual, or a specific subset of individuals, involved in"
+  },
+  {
+   "id": "c071",
+   "page": 49,
+   "section": "Notifying individuals about an eligible data breach",
+   "subsection": "Option 2 — Notify only those individuals at risk of serious harm",
+   "text": "an eligible data breach is at risk of serious harm, and can specifically identify those individuals, only those individuals need to be notified. The benefits of this targeted approach include avoiding unnecessary distress to individuals who are not at risk, limiting possible notification fatigue among members of the public, and reducing administrative costs, where it is not required by the NDB scheme."
+  },
+  {
+   "id": "c072",
+   "page": 49,
+   "section": "Notifying individuals about an eligible data breach",
+   "subsection": "Option 2 — Notify only those individuals at risk of serious harm – Example",
+   "text": "An attacker installs malicious software on a retailer’s website. The software allows the attacker to intercept payment card details when customers make purchases on the website. The attacker is also able to access basic account details for all customers who have an account on the website. Following a comprehensive risk assessment, the retailer considers that the individuals who made purchases during the period that the malicious software was active are at likely risk of serious harm, due to the likelihood of payment card fraud. Based on this assessment, the retailer also considers that those customers who only had basic account details accessed are not at likely risk of serious harm. The retailer is only required to notify those individuals that it considers to be at likely risk of serious harm."
+  },
+  {
+   "id": "c073",
+   "page": 49,
+   "section": "Notifying individuals about an eligible data breach",
+   "subsection": "Option 3 — Publish notification",
+   "text": "If neither option 1 or 2 above are practicable, for example, if the entity does not have up-to-date contact details for individuals, then the entity must: • publish a copy of the statement on its website if it has one • take reasonable steps to publicise the contents of the statement (s 26WL(2)(c)). It is not enough to simply upload a copy of the statement prepared for the Commissioner on any webpage of the entity’s website. Entities must also take proactive steps to publicise the substance of the eligible data breach (and at least the contents of the statement), to increase the likelihood that the eligible data breach will come to the attention of individuals at risk of serious harm. While the Privacy Act does not specify the amount of time that an entity must keep the statement accessible on their website, the Commissioner would generally expect that it is available for at least 6 months."
+  },
+  {
+   "id": "c074",
+   "page": 49,
+   "section": "Notifying individuals about an eligible data breach",
+   "subsection": "Option 3 — Publish notification – Example",
+   "text": "In the process of cleaning up his old desktop, an accountant accidently sends a spreadsheet containing the TFN and contact information of his past clients to his entire email contact list. He is worried that the information contained could be used for identity theft and understands that ‘recalling’ emails does not usually work. He emails his contact list to request that they immediately delete the spreadsheet and notify him when this has happened. In addition, since the file is over ten years old, he decides that notifying individuals directly (through option 1 or 2) would not be practicable, as their contact details would more than likely be outdated. He notifies the Commissioner about the data breach and publicises a notification (option 3)."
+  },
+  {
+   "id": "c075",
+   "page": 50,
+   "section": "Notifying individuals about an eligible data breach",
+   "subsection": "How do I notify and what do I need to say?",
+   "text": "Options 1 (Notify all individuals) and 2 (Notify only those individuals at risk of serious harm) Options 1 and 2 above require that entities take ‘such steps as are reasonable in the circumstances to notify individuals about the contents of the statement’ that the entity prepared for the Commissioner (s 26WL(2)(a) and (b)). The entity can use any method to notify individuals (for example, a telephone call, SMS, physical mail, social media post, or in-person conversation), so long as the method is reasonable. In considering whether a particular method, or combination of methods is reasonable, the notifying entity should consider the likelihood that the people it is notifying will become aware of, and understand the notification, and weigh this against the resources involved in undertaking notification. An entity can notify an individual using their usual method of communicating with that particular individual (s 26WL(4)). For example, if an entity usually communicates through a nominated intermediary, they may also choose to notify through this intermediary. The entity can tailor the form of its notification to individuals, as long as it includes the content of the statement required by s 26WK. That statement (and consequently, the notification to individuals) must include the following information: 1. the identity and contact details of the entity (s 26WK(3)(a)) 2. a description of the eligible data breach that the entity has reasonable grounds to believe has happened (s 26WK(3)(b)) 3. the kind, or kinds, of information concerned (s 26WK(3)(c)) 4. recommendations about the steps that individuals should take in response to the eligible data breach (s"
+  },
+  {
+   "id": "c076",
+   "page": 50,
+   "section": "Notifying individuals about an eligible data breach",
+   "subsection": "How do I notify and what do I need to say?",
+   "text": "breach that the entity has reasonable grounds to believe has happened (s 26WK(3)(b)) 3. the kind, or kinds, of information concerned (s 26WK(3)(c)) 4. recommendations about the steps that individuals should take in response to the eligible data breach (s 26WK(3)(d)). Decisions about the appropriate types of recommendations will always be dependent on the circumstances of the eligible data breach. This may include choosing to tailor recommended steps around an individual’s personal circumstances, or providing general recommendations that apply to all individuals. In some circumstances, the entity may have already taken some protective steps, reducing the necessity for action by affected individuals. The entity may choose to explain these measures in the notice to individuals as a part of their recommendation. For example, a bank may notify an individual that it has suspended suspicious transactions on their account and recommended steps may be limited to suggesting the individual monitor their accounts and notify the bank immediately of any other suspicious transactions. Option 3 (Publish notification) Option 3, which can only be used if options 1 or 2 are not practicable, requires an entity to publish a copy of the statement prepared for the Commissioner on its website, and take reasonable steps to publicise the contents of that statement. An entity should consider what steps are reasonable in the circumstances of the entity and the data breach to publicise the statement. The purpose of publicising the statement is to draw it to the attention of individuals at risk of serious harm, so the entity should consider what mechanisms would be most"
+  },
+  {
+   "id": "c077",
+   "page": 50,
+   "section": "Notifying individuals about an eligible data breach",
+   "subsection": "How do I notify and what do I need to say?",
+   "text": "the entity and the data breach to publicise the statement. The purpose of publicising the statement is to draw it to the attention of individuals at risk of serious harm, so the entity should consider what mechanisms would be most likely to bring the statement to the attention of those people."
+  },
+  {
+   "id": "c078",
+   "page": 51,
+   "section": "Notifying individuals about an eligible data breach",
+   "subsection": "How do I notify and what do I need to say?",
+   "text": "A reasonable step when publicising an online notice, might include: • ensuring that the notice is prominently placed on the relevant webpage, which can be easily located by individuals and indexed by search engines • publishing an announcement on the entity’s social media channels • taking out a print or online advertisement in a publication or on a website the entity considers reasonably likely to reach individuals at risk of serious harm. In some cases, it might be reasonable to take more than one step to publicise the contents of the statement. For example, if a data breach involves a particularly serious form of harm, or affects a large number of individuals, an entity could take out multiple print or online advertisements (which could include paid advertisements on social media channels), publish posts on multiple social media channels, or use both traditional media and online channels. The approach to publicising the statement may depend on the publication method. For example, where space and cost allows, an entity may republish the entirety of the information required to be included in the statement. Another option, if the available space is limited, or the cost of republishing the entire statement would not be reasonable in all the circumstances, would be to summarise the information required to be included in the statement and provide a hyperlink to the copy of the statement published on the entity’s website. Entities should keep in mind the ability and likelihood of individuals at risk of serious harm being able to access the statement when determining the appropriateness of"
+  },
+  {
+   "id": "c079",
+   "page": 51,
+   "section": "Notifying individuals about an eligible data breach",
+   "subsection": "How do I notify and what do I need to say?",
+   "text": "a hyperlink to the copy of the statement published on the entity’s website. Entities should keep in mind the ability and likelihood of individuals at risk of serious harm being able to access the statement when determining the appropriateness of relying solely on such an approach. If option 3 is chosen, entities should take care to ensure that the online notice does not contain any personal information. While it may help if entities provide a general description of the cohort of affected individuals, this description should not identify any of the affected individuals or provide information that may make an individual reasonably identifiable. For example, it may be appropriate for an online retailer to publicise that individuals who made transactions in the year 2013 may be affected, but it would not be appropriate for the retailer to publicise the names associated with any compromised transaction data."
+  },
+  {
+   "id": "c080",
+   "page": 51,
+   "section": "Notifying individuals about an eligible data breach",
+   "subsection": "Timing of notification",
+   "text": "Entities must notify individuals as soon as practicable after completing the statement prepared for notifying the Commissioner (s 26WL(3)). Considerations of cost, time, and effort may be relevant in an entity’s decision about when to notify individuals. However, the Commissioner generally expects entities to expeditiously notify individuals at risk of serious harm about an eligible data breach unless cost, time, and effort are excessively prohibitive in all the circumstances. If entities have notified individuals at risk of serious harm of the data breach before they notify the Commissioner, they do not need to notify those individuals again, so long as the individuals were notified of the contents of the statement given to the Commissioner. The scheme does not require that notification be given to the Commissioner before individuals at risk of serious harm, so if entities wish to begin notifying those individuals before, or at the same time as notifying the Commissioner, they may do so."
+  },
+  {
+   "id": "c081",
+   "page": 52,
+   "section": "What to include in an eligible data breach statement",
+   "subsection": "",
+   "text": "Key points • The NDB scheme requires entities to notify individuals about an eligible data breach (see Identifying Eligible Data Breaches). • Entities are also required to prepare a statement and provide a copy to the Commissioner (s 26WK). The OAIC’s online form may help entities to do this. • The statement must include the name and contact details of the entity, a description of the eligible data breach, the kind or kinds of information involved, and what steps the entity recommends that individuals at risk of serious harm take in response to the eligible data breach (s 26WK(3)) • Entities must notify affected individuals about the contents of this statement or, if this is not practicable, publish a copy of the statement on the entity’s website and take reasonable steps to publicise the contents of the statement (s 26WL(2)) (see Notifying individuals about an eligible data breach)."
+  },
+  {
+   "id": "c082",
+   "page": 52,
+   "section": "What to include in an eligible data breach statement",
+   "subsection": "What must be included in the statement",
+   "text": "A statement about an eligible data breach must include: • the identity and contact details of the entity (s 26WK(3)(a)) • a description of the eligible data breach (s 26WK(3)(b)) • the kind or kinds of information involved in the eligible data breach (s 26WK(3)(c)) • what steps the entity recommends that individuals take in response to the eligible data breach (s 26WK(3)(d))."
+  },
+  {
+   "id": "c083",
+   "page": 52,
+   "section": "What to include in an eligible data breach statement",
+   "subsection": "Identity and contact details of the entity",
+   "text": "Where an entity’s company name is different to the business or trading name, the OAIC recommends that entities also include the name that is most familiar to individuals. The entity must also include information about how an individual can contact it. Depending on the nature and scale of the breach, the entity may wish to consider whether to provide its general contact details, or establish a dedicated phone line or email address to answer queries from individuals."
+  },
+  {
+   "id": "c084",
+   "page": 52,
+   "section": "What to include in an eligible data breach statement",
+   "subsection": "Description of the eligible data breach",
+   "text": "An entity is required to include ‘a description’ of the data breach in its statement. The OAIC expects that the statement will include sufficient information about the data breach to allow affected individuals the opportunity to properly assess the possible consequences of the data breach for them, and to take protective action in response. Information describing the eligible data breach may include: • the date, or date range, of the unauthorised access or disclosure • the date the entity detected the data breach"
+  },
+  {
+   "id": "c085",
+   "page": 53,
+   "section": "What to include in an eligible data breach statement",
+   "subsection": "Description of the eligible data breach",
+   "text": "• the circumstances of the data breach (such as any known causes for the unauthorised access or disclosure) • who has obtained or is likely to have obtained access to the information • relevant information about the steps the entity has taken to contain or remediate the breach. In general, the OAIC does not expect entities to identify the specific individuals who have accessed information, unless this is relevant to the steps the entity recommends individuals might take in response. For example, where information has been accidentally disclosed in a family violence situation known to the entity, this would be important information for the individual to know. Usually, however, it would suffice to provide a general description of the type of person who has obtained the information, such as ‘an external third party’ or ‘former employee’."
+  },
+  {
+   "id": "c086",
+   "page": 53,
+   "section": "What to include in an eligible data breach statement",
+   "subsection": "The kind or kinds of information concerned",
+   "text": "The statement must include the kind or kinds of information involved in the data breach. Knowing what kind of personal information has been breached is critical to assessing what action should be taken by individuals following a data breach. Entities, in assessing the data breach, should clearly establish what information was involved in the data breach, including whether the breach involved ‘sensitive information’ 28 (such as information about an individual’s health), government related identifiers (such as a Medicare number or driver licence number), or financial information. Steps recommended to individuals in response to the eligible data breach The statement must include recommendations individuals should take in response to the data breach, to mitigate the serious harm or likelihood of serious harm from the data breach. The nature of recommendations will depend on the entity’s functions and activities, the circumstances of the eligible data breach, and the kind or kinds of information that were involved. Recommendations should include practical steps that are easy for the individuals to action. For example, to help reduce the risk of identity theft or fraud, recommendations in response to a data breach that involved individuals’ Medicare numbers might include steps an individual can take to request a new Medicare card. Or in the case of a data breach that involved credit card information, putting individuals at risk of identity theft, recommendations might include that an individual contact their financial institution to change their credit card number, and also contact a credit reporting body to establish a ban period on their credit report. Where the entity does"
+  },
+  {
+   "id": "c087",
+   "page": 53,
+   "section": "What to include in an eligible data breach statement",
+   "subsection": "The kind or kinds of information concerned",
+   "text": "risk of identity theft, recommendations might include that an individual contact their financial institution to change their credit card number, and also contact a credit reporting body to establish a ban period on their credit report. Where the entity does not have the requisite knowledge or capacity to provide advice to affected individuals, they should seek specialist advice or assistance in preparing this section. In limited circumstances, after seeking advice, the entity may use this section to advise individuals that no steps are required. See s 6(1) of the Privacy Act for categories of personal information that are covered by the definition of ‘sensitive information’."
+  },
+  {
+   "id": "c088",
+   "page": 54,
+   "section": "What to include in an eligible data breach statement",
+   "subsection": "Other entities involved in the data breach",
+   "text": "If more than one entity holds personal information that was compromised in an eligible data breach, only one entity needs to prepare a statement and notify individuals about the data breach (s 26WM, and see Data Breaches Involving More Than One Entity). This may occur when an entity outsources the handling of personal information, is involved in a joint venture, or where it has a shared services arrangement with another entity. When a data breach affects more than one entity, the entity that prepares the statement may include the identity and contact details of the other entities involved (s 26WK(4)). Whether an entity includes the identity and contact details of other involved entities in its statement will depend on the circumstances of the eligible data breach, and the relationship between the entities and the individuals involved. The Privacy Act does not require this information to be included on the statement, and it is open to entities to assess whether it is useful to provide this information to individuals. The OAIC recognises that in some instances the identity and contact details of a third party may not be relevant to an individual whose personal information is involved in an eligible data breach, for example, where the individual does not have a relationship with the other entity. In these circumstances, rather than include the identity and contact details of the third party or parties, the entity that prepares the statement may wish to describe the nature of the relationship with the third party in its description of the data breach."
+  },
+  {
+   "id": "c089",
+   "page": 54,
+   "section": "What to include in an eligible data breach statement",
+   "subsection": "Other entities involved in the data breach",
+   "text": "include the identity and contact details of the third party or parties, the entity that prepares the statement may wish to describe the nature of the relationship with the third party in its description of the data breach."
+  },
+  {
+   "id": "c090",
+   "page": 54,
+   "section": "What to include in an eligible data breach statement",
+   "subsection": "When to provide a copy of the statement to the Commissioner",
+   "text": "Entities must prepare and give a copy of the statement to the Commissioner as soon as practicable after becoming aware of the eligible data breach (s 26WK(2)). What is a ‘practicable’ timeframe will vary depending on the entity’s circumstances, and may include considerations of the time, effort, or cost required to prepare the statement. The OAIC expects that once an entity becomes aware of an eligible data breach, it will provide a statement to the Commissioner promptly, unless there are circumstances that reasonably hinder the entity’s ability to do so. It may be appropriate in some circumstances for an entity to advise individuals about the contents of the statement before or at the same time that it gives the statement to the Commissioner, rather than waiting. While a statement provided to the Commissioner and individuals must include certain information outlined above (s 26WK(3)), where additional relevant information becomes available after submitting this statement, the entity may provide this to the OAIC. The OAIC will include instructions about how to provide any supplementary information upon receipt of the statement."
+  },
+  {
+   "id": "c091",
+   "page": 54,
+   "section": "What to include in an eligible data breach statement",
+   "subsection": "How to provide the statement to the Commissioner",
+   "text": "The OAIC has an online form for entities to lodge all eligible date breach statements under section 26WK of the Privacy Act. If you are unable to use the online form, please contact the OAIC enquiries line to make alternative arrangements."
+  },
+  {
+   "id": "c092",
+   "page": 55,
+   "section": "Australian Information Commissioner’s role in the NDB scheme",
+   "subsection": "",
+   "text": "Key points The Commissioner has a number of roles under the NDB scheme in the Privacy Act. These include: • receiving notifications of eligible data breaches • encouraging compliance with the scheme, including by handling complaints, conducting investigations, and taking other regulatory action in response to instances of non-compliance • offering advice and guidance to regulated entities, and providing information to the community about the operation of the scheme. This document summarises how the Commissioner anticipates exercising these functions. For more information about the Commissioner’s regulatory powers and how those powers are exercised, see the OAIC’s Privacy Regulatory Action Policy 29 and the Guide to Privacy Regulatory Action. 30"
+  },
+  {
+   "id": "c093",
+   "page": 55,
+   "section": "Australian Information Commissioner’s role in the NDB scheme",
+   "subsection": "How to notify the Commissioner",
+   "text": "Once an entity has reasonable grounds to believe there has been an eligible data breach and it is not exempted from notifying, it is required to provide notification to individuals at risk of serious harm and the Commissioner. When notifying the Commissioner, the entity must provide a notification statement that contains the following information (s 26WK(3)): 1. The identity and contact details of the notifying entity. 2. A description of the data breach. 3. The kind or kinds of information concerned. 4. Recommendations to individuals about the steps that they should take to minimise the impact of the breach. An online form is available on the OAIC website to help entities lodge notification statements and provide additional supporting information (see What to Include in an Eligible Data Breach Statement)."
+  },
+  {
+   "id": "c094",
+   "page": 55,
+   "section": "Australian Information Commissioner’s role in the NDB scheme",
+   "subsection": "Providing voluntary information",
+   "text": "Although not required by the Privacy Act, entities may provide additional supporting information to the Commissioner to explain the circumstances of the data breach and the entity’s response in further detail. For example, entities may choose to provide the Commissioner with technical The Privacy Regulatory Action Policy explains the OAIC’s approach to using its privacy regulatory powers and The Guide to Privacy Regulatory Action sets out a detailed explanation of particular privacy regulatory powers, looking at the legislative framework and purpose of the power, and the procedural steps the OAIC will take in the exercise of the"
+  },
+  {
+   "id": "c095",
+   "page": 56,
+   "section": "Australian Information Commissioner’s role in the NDB scheme",
+   "subsection": "Providing voluntary information",
+   "text": "information, which may not be appropriate to include in the statement to individuals. This information will assist the Commissioner to decide whether to make further inquiries or to take any other action. It may also be used by the Commissioner when preparing statistical reports about notifications received. When a data breach affects more than one entity, the entity that prepares the statement may also choose to include the identity and contact details of the other entities involved (s 26WK(4)). The Privacy Act does not require this information to be included on the statement, and it is open to entities to assess whether it is useful to provide this information in the statement."
+  },
+  {
+   "id": "c096",
+   "page": 56,
+   "section": "Australian Information Commissioner’s role in the NDB scheme",
+   "subsection": "Confidentiality of information provided in notifications",
+   "text": "If an entity elects to provide additional supporting information to the Commissioner, it may request that the Commissioner hold that information in confidence. The Commissioner will respect the confidence of commercially or operationally sensitive information provided voluntarily in support of a data breach notification, and will only disclose such information after consulting with the notifying entity, and with the entity’s agreement or where required by law. If the Commissioner receives a freedom of information (FOI) request for a notification statement or additional supporting information, the Commissioner will consult with the entity that made the notification before responding. As a matter of course, the Commissioner will offer to transfer any FOI requests relating to agencies to the agencies in question."
+  },
+  {
+   "id": "c097",
+   "page": 56,
+   "section": "Australian Information Commissioner’s role in the NDB scheme",
+   "subsection": "The Commissioner’s response to notifications",
+   "text": "The Commissioner will acknowledge receipt of all data breach notifications. The Commissioner may also make inquiries or offer advice and guidance in response to notifications. In deciding whether to make inquiries or offer advice and guidance in response to a notification, the Commissioner may consider the type and sensitivity of the personal information, the numbers of individuals potentially at risk of serious harm, and the extent to which the notification statement and any additional supporting information provided demonstrate that: • the data breach has been contained or is in the process of being contained where feasible • the notifying entity has taken, or is taking, reasonable steps to mitigate the impact of the breach on the individuals at risk of serious harm • the entity has taken, or is taking, reasonable steps to minimise the likelihood of a similar breach occurring again. The Commissioner may also decide to take regulatory action on the Commissioner’s own initiative in response to a notification, or a series of notifications. In deciding whether to take regulatory action, the Commissioner will have regard to the OAIC’s Privacy regulatory action policy and Guide to privacy regulatory action. However, generally the Commissioner’s priority when responding to notifications is to provide guidance to the entity and to assist individuals at risk of serious harm."
+  },
+  {
+   "id": "c098",
+   "page": 56,
+   "section": "Australian Information Commissioner’s role in the NDB scheme",
+   "subsection": "The Commissioner’s enforcement of the NDB scheme",
+   "text": "The Commissioner has a number of enforcement powers to ensure that entities meet their obligations under the scheme. A failure by an entity to meet any of the following requirements of the scheme is an interference with the privacy of an individual (s 13(4A)):"
+  },
+  {
+   "id": "c099",
+   "page": 57,
+   "section": "Australian Information Commissioner’s role in the NDB scheme",
+   "subsection": "The Commissioner’s enforcement of the NDB scheme",
+   "text": "• Conduct a reasonable and expeditious assessment of a suspected eligible data breach (s 26WH(2)), taking all reasonable steps to ensure that this assessment is completed within 30 days of becoming aware (s 26WH(2)(b)). • Prepare a statement about the data breach, and give a copy to the Commissioner, as soon as practicable (s 26WK(2)). • Notify the contents of the statement to individuals at risk of serious harm (or, in certain circumstances, publish the statement) as soon as practicable (s 26WL(3)). • Comply with a direction from the Commissioner to prepare a statement and notify as soon as practicable (s 26WR(10)). The enforcement powers available to the Commissioner in response to an interference with privacy, which range from less serious to more serious regulatory action, include powers to: • accept an enforceable undertaking (s 33E) and bring proceedings to enforce an enforceable undertaking (s 33F) • make a determination (s 52) and bring proceedings to enforce a determination (ss 55A and 62) • seek an injunction to prevent ongoing activity or a recurrence (s 98) • apply to court for a civil penalty order for a breach of a civil penalty provision (s 80W), which includes a serious or repeated interference with privacy (s 13G). 31 The Commissioner is also required, in most circumstances, to investigate a complaint made by an individual about an interference with the individual’s privacy (s 36), which would include a failure to notify an individual at risk of serious harm of an eligible data breach where required to do so. In deciding when to"
+  },
+  {
+   "id": "c100",
+   "page": 57,
+   "section": "Australian Information Commissioner’s role in the NDB scheme",
+   "subsection": "The Commissioner’s enforcement of the NDB scheme",
+   "text": "by an individual about an interference with the individual’s privacy (s 36), which would include a failure to notify an individual at risk of serious harm of an eligible data breach where required to do so. In deciding when to exercise enforcement powers in relation to a contravention of the NDB scheme, the Commissioner will have regard to the OAIC’s Privacy Regulatory Action Policy and the circumstances outlined in Chapter 9: Data Breach Incidents of the OAIC’s Guide to Privacy Regulatory Action. The preferred approach of the Commissioner is to work with entities to encourage and facilitate compliance with an entity’s obligations under the Privacy Act before taking enforcement action. The Commissioner acknowledges that it will take time for all regulated entities to become familiar with the requirements of the NDB scheme. During the first 12 months of the scheme’s operation, the Commissioner’s primary focus will be on working with entities to ensure that they understand the new requirements and are working in good faith to implement them."
+  },
+  {
+   "id": "c101",
+   "page": 57,
+   "section": "Australian Information Commissioner’s role in the NDB scheme",
+   "subsection": "The Commissioner’s other powers and functions under the scheme",
+   "text": "Direction to notify (s 26WR) The Commissioner can direct an entity to notify individuals at risk of serious harm, as well as the Commissioner, about an eligible data breach in certain circumstances. Before directing an entity to notify, the Commissioner will usually ask the entity to agree to notify. This might happen if a data breach comes to the attention of the Commissioner but has not come For more information about civil penalty provisions in the Privacy Act, see Guide to Privacy Regulatory Action, Chapter 6: Civil Penalties — Serious or Repeated Interference With Privacy and Other Penalty Provisions."
+  },
+  {
+   "id": "c102",
+   "page": 58,
+   "section": "Australian Information Commissioner’s role in the NDB scheme",
+   "subsection": "The Commissioner’s other powers and functions under the scheme",
+   "text": "to the attention of the relevant entity, or if the Commissioner does not agree with the entity’s initial view about whether a data breach triggers an obligation to notify. If the Commissioner and the entity cannot agree about whether notification should occur, the Commissioner will give the entity an opportunity to make a formal submission about why notification is not required, or if notification is required, on what terms. The Commissioner will consider the submission and any other relevant information before deciding whether to direct the entity to notify under s 26WR. Declaration that notification need not be made, or that notification be delayed (s 26WQ) The Commissioner may declare that notification of a particular data breach is not required (s 26WQ(1)(c)). The Commissioner may also modify the period in which notification needs to occur (s 26WQ(1)(d)). The Commissioner cannot make a declaration under s 26WQ unless satisfied that it is reasonable in the circumstances to do so, having regard to the public interest, any relevant advice received from an enforcement body or the Australian Signals Directorate, and any other relevant matter. While the Commissioner is empowered to make a declaration if it is ‘reasonable in the circumstances to do so’, the Commissioner still has discretion about whether to make a declaration, and on what terms. In deciding whether to make a declaration, and on what terms, the Commissioner will have regard to the objects of the Privacy Act (s 2A) and other relevant matters. The Commissioner will consider whether the risks associated with notifying a particular data breach outweigh"
+  },
+  {
+   "id": "c103",
+   "page": 58,
+   "section": "Australian Information Commissioner’s role in the NDB scheme",
+   "subsection": "The Commissioner’s other powers and functions under the scheme",
+   "text": "make a declaration, and on what terms, the Commissioner will have regard to the objects of the Privacy Act (s 2A) and other relevant matters. The Commissioner will consider whether the risks associated with notifying a particular data breach outweigh the benefits of notification to individuals at risk of serious harm. Given the clear objective of the scheme to promote notification of eligible data breaches to affected individuals, and the inclusion of exceptions in the scheme that remove the need to notify in a wide range of circumstances, the Commissioner expects that declarations under s 26WQ will be limited to exceptional cases. An entity applying for a declaration will be expected to make a well-reasoned and convincing case detailing how the data breach is an eligible data breach, why any relevant exceptions do not apply, and why notification should not occur or should be delayed. The entity should provide detailed evidence or information in support of its application."
+  },
+  {
+   "id": "c104",
+   "page": 58,
+   "section": "Australian Information Commissioner’s role in the NDB scheme",
+   "subsection": "Advice, guidance, and community information",
+   "text": "The Commissioner provides general information to the community about the Privacy Act, including the NDB scheme, via the OAIC’s website or its public enquiries service. The Commissioner has developed this guide and other resources, which are available on the OAIC’s website, to help entities comply with the scheme. However, the Commissioner will not be able to provide detailed advice about the application of the scheme to specific data breaches. Entities should seek their own legal and technical advice. Part of the Commissioner’s role in the NDB scheme is to promote transparency in the way that entities handle personal information. To this end, the Commissioner will regularly publish deidentified statistical information about data breaches notified under the scheme."
+  }
+ ]
+}

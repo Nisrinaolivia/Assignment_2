@@ -27,7 +27,8 @@ When personal information is compromised, an organisation covered by the
 **eligible data breach** that has to be notified to the OAIC and affected individuals.
 
 This tool takes a plain-English description of an incident and works through
-that question step by step.
+that question step by step. Each legal step is grounded in the text of the Act and in passages
+retrieved from the OAIC's *Data breach preparation and response* guide, which the tool cites.
 """
 )
 
@@ -37,12 +38,14 @@ st.divider()
 st.subheader("How it works")
 
 steps = [
-    ("1. Fact extraction", "Turns your description into structured facts."),
-    ("2. Unauthorised access, disclosure or loss", "Element 1, s 26WE(2)(a)–(b)."),
-    ("3. Likely serious harm", "Element 2, applying the s 26WG factors."),
-    ("4. Remedial action exception", "Checks whether s 26WF prevents the harm."),
-    ("5. Reflection", "The AI reviews its own analysis for errors or contradictions."),
-    ("6. Advice memo", "A short memo with the conclusion and next steps."),
+    ("1. Fact extraction", "Turns your description (typed or uploaded) into structured facts and flags missing ones."),
+    ("2. Coverage", "Is the entity covered? APP entities, small business exceptions, TFN rules, employee records."),
+    ("3. Element 1", "Unauthorised access, disclosure or loss of personal information (s 26WE(2))."),
+    ("4. Element 2", "Likely serious harm, assessed factor by factor under s 26WG."),
+    ("5. Remedial action", "Does the s 26WF exception apply?"),
+    ("6. Senior review loop", "A reviewer checks the analysis and sends flawed steps back for revision."),
+    ("7. Advice memo", "A memo with citations, downloadable as a Word document."),
+    ("8. OAIC statement", "If notifiable, a draft s 26WK statement to the Commissioner."),
 ]
 
 cols = st.columns(2)

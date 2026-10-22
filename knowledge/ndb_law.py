@@ -112,9 +112,40 @@ If:
 then the loss is not, and is taken never to have been, an eligible data breach of
 the entity or of any other entity."""
 
+# Coverage rules are spread across several provisions (ss 6C, 6D, 6E, 6EA, 7B, 26WE(1)),
+# so this is a structured summary rather than verbatim text. It is supplemented at run time
+# by passages retrieved from the OAIC guide (pp 24-28).
+COVERAGE_SUMMARY = """Who must comply with the NDB scheme (Privacy Act 1988 (Cth) s 26WE(1), read with ss 6C-6EA, 7B, 11):
+
+1. APP entities (s 26WE(1)(a)) - entities required by APP 11 to secure personal information they hold:
+   - Australian Government agencies;
+   - organisations (including not-for-profits) with annual turnover above $3 million.
+2. Small business operators (annual turnover of $3 million or less in every financial year since 2001, s 6D)
+   are generally NOT covered, unless an exception in s 6D(4) applies, for example the business:
+   - provides a health service and holds health information;
+   - trades in personal information (discloses or collects it for a benefit, service or advantage);
+   - is related to an APP entity;
+   - is a credit reporting body or a registered employee association;
+   - has opted in to coverage (s 6EA).
+   Some small businesses are covered only for particular activities (e.g. services under a Commonwealth
+   contract, residential tenancy databases, AML/CTF reporting).
+3. Credit reporting bodies (s 26WE(1)(b)) and credit providers (s 26WE(1)(c)), for credit reporting /
+   credit eligibility information, whether or not they are APP entities.
+4. Tax file number recipients (s 26WE(1)(d)) - anyone holding TFN information - but ONLY to the extent the
+   breach involves TFN information. This applies even to entities that are otherwise not covered.
+5. Exempt acts and practices are outside the scheme. In particular, a private sector employer's handling
+   of an employee record relating to a current or former employment relationship is exempt (s 7B(3)),
+   except TFN information within an employee record. The OAIC still recommends voluntary notification
+   where serious harm is likely.
+6. Information is 'held' if the entity has possession or control of a record containing it (s 6(1));
+   where information is held jointly, each holder has obligations but only one needs to notify (ss 26WJ, 26WM)."""
+
 # ---------------------------------------------------------------------------
 # Law passed to the AI at each step
 # ---------------------------------------------------------------------------
+
+# Step 2: is the entity (and this information) covered by the NDB scheme?
+ENTITY_LAW = COVERAGE_SUMMARY
 
 # Step 2: unauthorised access, disclosure or loss of personal information
 ELEMENT_1_LAW = "\n\n".join([PERSONAL_INFORMATION, S_26WE_2])
